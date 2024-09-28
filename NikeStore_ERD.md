@@ -1,4 +1,4 @@
-'''mermaid
+```mermaid
 erDiagram
   PRODUCT |{--|| SALE : "purchases recorded"
   PRODUCT |{--|| INVENTORY : "restock shelves"
@@ -34,7 +34,7 @@ erDiagram
     string inboundStock
   }
   
-'''
+```
 
 # Nike Store Element Relationships
 ======
